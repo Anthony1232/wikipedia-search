@@ -9,3 +9,5 @@ acts like a search engine exclusively for wikipedia
 returns information from a website and can save said information on hosts computer
 
 looks for similar sites if none the user inputted are found and automatically picks the best option
+
+REQUIRES: python3, BeautifulSoup, requests
